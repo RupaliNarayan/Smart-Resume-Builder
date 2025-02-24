@@ -3,7 +3,7 @@ import streamlit as st
 import openai
 import pdfplumber
 
-openai_api_key = "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"
+openai_api_key = ""
 
 
 def extract_text_with_pdfplumber(uploaded_file):
